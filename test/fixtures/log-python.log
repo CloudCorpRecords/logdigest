@@ -1,0 +1,10 @@
+Running worker job
+Starting step one
+Traceback (most recent call last):
+  File "worker.py", line 12, in <module>
+    main()
+  File "worker.py", line 8, in main
+    raise ValueError("bad input")
+ValueError: bad input
+Process exited with code 1
+Cleanup done

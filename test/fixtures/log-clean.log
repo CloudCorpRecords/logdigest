@@ -1,0 +1,6 @@
+> example@1.0.0 build
+> tsc
+
+Build succeeded
+All 30 tests passed
+Done in 1.23s
